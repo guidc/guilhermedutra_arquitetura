@@ -284,13 +284,13 @@ p.ism-badge a.ism-link:hover {
 /* SLIDER */
 
 #my-slider {
-    width: 660px;
-    height: 370px;
+    width: 1070px;
+    height: 600px;
     border-radius: 0;
 }
 
 #my-slider-ism-badge {
-    width: 660px;
+    width: 1070px;
 }
 
 #my-slider .ism-button {
@@ -336,7 +336,7 @@ p.ism-badge a.ism-link:hover {
 
 #my-slider .ism-radios label {
     width: 20px; height: 20px;
-    border-radius: 0;
+    border-radius: 3px;
     color: #000; background-color: rgba(255, 255, 255, 0.5);
 }
 
@@ -557,3 +557,4 @@ p.ism-badge a.ism-link:hover {
     border: none;
     color: #fff; background-color: rgba(0, 0, 0, 0.70);
 }
+
